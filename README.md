@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Goitse 👋
 
-<!--
-**goitsekelly69-p/goitsekelly69-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Financial Engineering postgraduate student with an academic background in Mathematical Sciences, specialising in Mathematical Statistics, Economics and Investment Management. My interests lie at the intersection of quantitative finance, econometrics, statistical modelling and data analytics.
 
-Here are some ideas to get you started:
+### Technical Interests
+- Quantitative Finance and Financial Modelling
+- Econometric and Statistical Analysis
+- Data Analytics and Visualisation
+- Time-Series Modelling
+- Financial Markets and Derivatives
+- Financial Technology and Blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools and Technologies
+Python | R 
