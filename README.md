@@ -11,4 +11,4 @@ I am a Financial Engineering postgraduate student with an academic background in
 - Financial Technology and Blockchain
 
 ### Tools and Technologies
-Python | R 
+Python 
